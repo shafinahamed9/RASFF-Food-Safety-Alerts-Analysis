@@ -32,7 +32,7 @@ After cleaning geospatial data (harmonizing "China/Hong Kong" and fixing encodin
 ## 3. The "Toxic Matrix": Product vs. Hazard
 *What exactly is wrong with the food?*
 
-![Heatmap](Food_Products_vs_Hazard_Groups_new.png)
+![Heatmap](Food_Products_vs_Hazard_Groups.png)
 
 This heatmap reveals the specific correlations between food types and dangers:
 * **The Red Zone:** The intersection of **Nuts & Seeds** and **Natural Toxins** (Aflatoxins) is the single largest cluster of alerts (12,446).
